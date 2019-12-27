@@ -10,7 +10,11 @@ I hope that the categorization of these videos can be additionally useful for th
 Deep Double Descent: https://www.youtube.com/watch?v=R29awq6jvUw&t=1s
 <br>
 What's Hidden in a Randomly Weighted Neural Network: https://www.youtube.com/watch?v=C6Tj8anJO-Q
-
+<br>
+Randomly Wired Neural Networks: https://www.youtube.com/watch?v=960WIdYaKMM
+<br>
+Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
+<br>
 
 <h1>Generative Modeling</h1>
 Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
@@ -20,16 +24,53 @@ StyleGANv2: https://www.youtube.com/watch?v=u8qPvzk0AfY&t=11s
 SinGAN Explained! (ICCV '19 Best Paper): https://www.youtube.com/watch?v=-f8sz8AExdc&t=4s
 
 <h1> Neural Architecture Search </h1>
+Hierarchical Neural Architecture Search: https://www.youtube.com/watch?v=svOpLZ4Zx4A
+<br>
+Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
+<br>
+Evolution in Neural Architecture Search: https://www.youtube.com/watch?v=y0UvVB8k9rI
+<br>
 
 <h1>Reinforcement Learning</h1>
 Upside-Down Reinforcement Learning: https://www.youtube.com/watch?v=ed7QQMG24MM
+<br>
+Richard Sutton and Andrew Barto: Introduction to Reinforcement Learning
+<br>
+Chapter 1 Introduction: https://www.youtube.com/watch?v=4SLGEq_HZxk&t=56s
+<br>
+Chapter 2 Multi-Armed Bandits: https://www.youtube.com/watch?v=9LhNHK1ULxs&t=11s
+<br>
+Chapter 3 Finite Markov Decision Process: https://www.youtube.com/watch?v=U24wlvcxXBg&t=99s
+<br>
+Chapter 4 Dynamic Programming: https://www.youtube.com/watch?v=pcZFjPHO4c0&t=269s
+<br>
+Chapter 5 Monte Carlo Methods: https://www.youtube.com/watch?v=uiPhlFrwcw8&t=510s
+<br>
+Chapter 6 Temporal Difference Learning: https://www.youtube.com/watch?v=L64E_NTZJ_0&t=3s
+<br>
+Chapter 7 n-step Bootstrapping: https://www.youtube.com/watch?v=1i5a4yj0Mwg&t=310s
+<br>
+Chapter 8: Planning and Learning: https://www.youtube.com/watch?v=uja8sxJbplg&t=113s
+<br>
 
 <h1>Meta Learning</h1>
+Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
+<br>
+Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPOOG4&t=2s
+<br>
+
+<h1>Semi-Supervised Learning</h1>
+Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
+<br>
+
 
 <h1> Data Augmentation </h1>
 Adversarial Propagation: https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
 <br>
 RandAugment: https://www.youtube.com/watch?v=Zzt9i3gDueE
+<br>
+Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPOOG4&t=2s
+<br>
 
 <h1> Knowledge Distillation </h1>
 Knowledge Distillation with TAs: https://www.youtube.com/watch?v=ueUAtFLtukM&t=218s
@@ -44,6 +85,9 @@ t-SNE with RAPIDS (600x Speedup): https://www.youtube.com/watch?v=_4OehmMYr44&t=
 RAPIDS Feature Engineering for the NFL Data Bowl: https://www.youtube.com/watch?v=A9lgUwA8RrY
 <br>
 Slam Dunk Video Classification Tutorial (w/ TF 2.0 Distributed Training!): https://www.youtube.com/watch?v=LQ8b7piC1M4&t=59s
+<br>
+ResNet Keras Implementation: https://www.youtube.com/watch?v=DWpijIMpiPY
+<br>
 
 <h1> Working with Neural Networks </h1>
 Mixed Precision Training
@@ -52,6 +96,26 @@ Mixed Precision Training
 Adversarial Propagation (Vision Models): https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
 <br>
 Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
+
+<h1>Weakly Supervised Learning</h1>
+Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
+<br>
+
+<h1> Neuroevolution </h1>
+Coevolution of Agents and Environments (POET): https://www.youtube.com/watch?v=YBC-2zccO0s&t=5s
+<br>
+Novelty Search for Neuroevolution: https://www.youtube.com/watch?v=-mxpn95uxS4
+<br>
+Genetic CNN: https://www.youtube.com/watch?v=GZMcy_vl5wA
+<br>
+CoDeepNEAT: https://www.youtube.com/watch?v=XvCbgwhMVu4
+<br>
+Neuroevolution of Augmenting Topologies (NEAT): https://www.youtube.com/watch?v=b3D8jPmcw-g&t=54s
+<br>
+Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
+<br>
+Evolution in Neural Architecture Search: https://www.youtube.com/watch?v=y0UvVB8k9rI
+<br>
 
 <h1> Miscellanious Videos </h1>
 Google Research at ICCV: https://www.youtube.com/watch?v=z-yvY8iAaHM&t=620s
