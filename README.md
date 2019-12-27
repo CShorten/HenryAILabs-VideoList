@@ -22,6 +22,15 @@ Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
 StyleGANv2: https://www.youtube.com/watch?v=u8qPvzk0AfY&t=11s
 <br>
 SinGAN Explained! (ICCV '19 Best Paper): https://www.youtube.com/watch?v=-f8sz8AExdc&t=4s
+<br>
+VAE-GAN: https://www.youtube.com/watch?v=yyqfZfnSzcw
+<br>
+WaveGAN: https://www.youtube.com/watch?v=BA-Z0KJIyJs
+<br>
+Self-Supervised GANs: https://www.youtube.com/watch?v=-oJWFcexolY
+<br>
+GANs with Fewer Labels: https://www.youtube.com/watch?v=4VqV31TCsZk
+<br>
 
 <h1> Neural Architecture Search </h1>
 Hierarchical Neural Architecture Search: https://www.youtube.com/watch?v=svOpLZ4Zx4A
@@ -29,6 +38,8 @@ Hierarchical Neural Architecture Search: https://www.youtube.com/watch?v=svOpLZ4
 Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
 <br>
 Evolution in Neural Architecture Search: https://www.youtube.com/watch?v=y0UvVB8k9rI
+<br>
+Wide ResNet: https://www.youtube.com/watch?v=Qyds_i-z0e8
 <br>
 
 <h1>Reinforcement Learning</h1>
@@ -71,6 +82,20 @@ RandAugment: https://www.youtube.com/watch?v=Zzt9i3gDueE
 <br>
 Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPOOG4&t=2s
 <br>
+Population Based Augmentation: https://www.youtube.com/watch?v=pEANQ8uau88
+<br>
+
+<h1> Self-Supervised Learning </h1>
+Self-Supervised GANs: https://www.youtube.com/watch?v=-oJWFcexolY
+<br>
+Multi-Task Self-Supervised Learning: https://www.youtube.com/watch?v=ODG60cYK7aU
+<br>
+Self-Supervised Learning: https://www.youtube.com/watch?v=lbKg3OSTsgA
+<br>
+Unsupervised Data Augmentation: https://www.youtube.com/watch?v=-u8Mi57BDIY
+<br>
+Image Data Augmentation for Deep Learning: https://www.youtube.com/watch?v=mljRx81K1gY
+<br>
 
 <h1> Knowledge Distillation </h1>
 Knowledge Distillation with TAs: https://www.youtube.com/watch?v=ueUAtFLtukM&t=218s
@@ -101,6 +126,10 @@ Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
 Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
 <br>
 
+<h1>Multi-Task Learning</h1>
+Multi-Task Self-Supervised Learning: https://www.youtube.com/watch?v=ODG60cYK7aU
+<br>
+
 <h1> Neuroevolution </h1>
 Coevolution of Agents and Environments (POET): https://www.youtube.com/watch?v=YBC-2zccO0s&t=5s
 <br>
@@ -116,8 +145,22 @@ Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
 <br>
 Evolution in Neural Architecture Search: https://www.youtube.com/watch?v=y0UvVB8k9rI
 <br>
+Population Based Training: https://www.youtube.com/watch?v=pEANQ8uau88
+<br>
+
+<h1>Few-Shot Learning</h1>
+Siamese Neural Networks: https://www.youtube.com/watch?v=T9yKyZfxUJg
+<br>
+
+<h1> Attention </h1>
+Show, Attend and Tell: https://www.youtube.com/watch?v=bBMxSg3c_6M
+
+<h1> Efficient Deep Learning </h1>
+RevNet: Backpropagation without Storing Activations: https://www.youtube.com/watch?v=EulWJgvNWfM
+<br>
 
 <h1> Miscellanious Videos </h1>
 Google Research at ICCV: https://www.youtube.com/watch?v=z-yvY8iAaHM&t=620s
 Facebook Research at ICCV: https://www.youtube.com/watch?v=W5EsADGw9CA&t=30s
+
 
