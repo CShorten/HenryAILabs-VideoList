@@ -49,6 +49,7 @@ Mixed Precision Training
 - https://www.youtube.com/watch?v=pKZs4hllCvI&t=520s
 <br>
 Adversarial Propagation (Vision Models): https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
+<br>
 Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
 
 <h1> Miscellanious Videos </h1>
