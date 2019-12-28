@@ -182,11 +182,14 @@ Skin Cancer Classification with Deep Learning: https://www.youtube.com/watch?v=G
 
 <h1> Miscellanious Videos </h1>
 Google Research at ICCV: https://www.youtube.com/watch?v=z-yvY8iAaHM&t=620s
+<br>
 Facebook Research at ICCV: https://www.youtube.com/watch?v=W5EsADGw9CA&t=30s
 
 <h1>Podcasts</h1>
 Yannic Kilcher: https://www.youtube.com/watch?v=084W48_uEz0&t=120s
+<br>
 Edward Peake: https://www.youtube.com/watch?v=Z-SePjfKAYM
+<br>
 Edward Dixon: https://www.youtube.com/watch?v=pwaUfkFZTDE
  
 
