@@ -15,6 +15,8 @@ Randomly Wired Neural Networks: https://www.youtube.com/watch?v=960WIdYaKMM
 <br>
 Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
 <br>
+The Lottery Ticket Hypothesis: https://www.youtube.com/watch?v=LXm_6eq0Cs4
+<br>
 
 <h1>Generative Modeling</h1>
 Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
@@ -31,6 +33,8 @@ Self-Supervised GANs: https://www.youtube.com/watch?v=-oJWFcexolY
 <br>
 GANs with Fewer Labels: https://www.youtube.com/watch?v=4VqV31TCsZk
 <br>
+GauGAN: https://www.youtube.com/watch?v=dOjES0yJx7s
+<br>
 
 <h1> Neural Architecture Search </h1>
 Hierarchical Neural Architecture Search: https://www.youtube.com/watch?v=svOpLZ4Zx4A
@@ -40,6 +44,10 @@ Weight Agnostic Neural Networks: https://www.youtube.com/watch?v=QqoKl9N2oCw
 Evolution in Neural Architecture Search: https://www.youtube.com/watch?v=y0UvVB8k9rI
 <br>
 Wide ResNet: https://www.youtube.com/watch?v=Qyds_i-z0e8
+<br>
+AutoML with Hyperband: https://www.youtube.com/watch?v=eqokKei1aEo&t=359s
+<br>
+SqueezeNet: https://www.youtube.com/watch?v=ge_RT5wvHvY
 <br>
 
 <h1>Reinforcement Learning</h1>
@@ -121,10 +129,15 @@ Mixed Precision Training
 Adversarial Propagation (Vision Models): https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
 <br>
 Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
+<br>
+Curriculum Learning in Deep Neural Networks: https://www.youtube.com/watch?v=hV61aU3UL-w
+<br>
 
 <h1>Weakly Supervised Learning</h1>
 Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
 <br>
+Weakly Supervised Pretraining: https://www.youtube.com/watch?v=m2ofSCpRFGk
+<br> 
 
 <h1>Multi-Task Learning</h1>
 Multi-Task Self-Supervised Learning: https://www.youtube.com/watch?v=ODG60cYK7aU
@@ -159,8 +172,21 @@ Show, Attend and Tell: https://www.youtube.com/watch?v=bBMxSg3c_6M
 RevNet: Backpropagation without Storing Activations: https://www.youtube.com/watch?v=EulWJgvNWfM
 <br>
 
+<h1> Deep Compression </h1>
+Deep Compression: https://www.youtube.com/watch?v=xDS7ljg0T-E
+<br>
+
+<h1> Applications of Deep Learning </h1>
+Skin Cancer Classification with Deep Learning: https://www.youtube.com/watch?v=GkTgSgjJuW8
+<br>
+
 <h1> Miscellanious Videos </h1>
 Google Research at ICCV: https://www.youtube.com/watch?v=z-yvY8iAaHM&t=620s
 Facebook Research at ICCV: https://www.youtube.com/watch?v=W5EsADGw9CA&t=30s
 
+<h1>Podcasts</h1>
+Yannic Kilcher: https://www.youtube.com/watch?v=084W48_uEz0&t=120s
+Edward Peake: https://www.youtube.com/watch?v=Z-SePjfKAYM
+Edward Dixon: https://www.youtube.com/watch?v=pwaUfkFZTDE
+ 
 
