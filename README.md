@@ -102,15 +102,18 @@ Chapter 7 n-step Bootstrapping: https://www.youtube.com/watch?v=1i5a4yj0Mwg&t=31
 Chapter 8: Planning and Learning: https://www.youtube.com/watch?v=uja8sxJbplg&t=113s
 <br>
 
-<h1>Meta Learning</h1>
-Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
+<h1>Coding Tutorials</h1>
+Vertical Jump Test with Computer Vision: https://www.youtube.com/watch?v=oIqWhCNHa30&t=1s
 <br>
-Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPOOG4&t=2s
+t-SNE with RAPIDS (600x Speedup): https://www.youtube.com/watch?v=_4OehmMYr44&t=3s
+<br>
+RAPIDS Feature Engineering for the NFL Data Bowl: https://www.youtube.com/watch?v=A9lgUwA8RrY
+<br>
+Slam Dunk Video Classification Tutorial (w/ TF 2.0 Distributed Training!): https://www.youtube.com/watch?v=LQ8b7piC1M4&t=59s
+<br>
+ResNet Keras Implementation: https://www.youtube.com/watch?v=DWpijIMpiPY
 <br>
 
-<h1>Semi-Supervised Learning</h1>
-Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
-<br>
 
 <h1> Data Augmentation </h1>
 Adversarial Propagation: https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
@@ -144,35 +147,14 @@ BigGANs in Data Augmentation: https://www.youtube.com/watch?v=eu7LUwbRyrk
 Unsupervised Feature Learning: https://www.youtube.com/watch?v=YniWmMxlKvY
 <br>
 
-<h1> Knowledge Distillation </h1>
-Knowledge Distillation with TAs: https://www.youtube.com/watch?v=ueUAtFLtukM&t=218s
+<h1>Meta Learning</h1>
+Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
 <br>
-Self-Training with Noisy Student: https://www.youtube.com/watch?v=Y8YaU9mv_us&t=2s
-
-<h1>Coding Tutorials</h1>
-Vertical Jump Test with Computer Vision: https://www.youtube.com/watch?v=oIqWhCNHa30&t=1s
+Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPOOG4&t=2s
 <br>
-t-SNE with RAPIDS (600x Speedup): https://www.youtube.com/watch?v=_4OehmMYr44&t=3s
-<br>
-RAPIDS Feature Engineering for the NFL Data Bowl: https://www.youtube.com/watch?v=A9lgUwA8RrY
-<br>
-Slam Dunk Video Classification Tutorial (w/ TF 2.0 Distributed Training!): https://www.youtube.com/watch?v=LQ8b7piC1M4&t=59s
-<br>
-ResNet Keras Implementation: https://www.youtube.com/watch?v=DWpijIMpiPY
-<br>
-
-<h1>Deep Learning on Graphs</h1>
-Graph Convolutional Networks: https://www.youtube.com/watch?v=pH1Zz6c1Q7A
-<br>
-Embedding Graphs with Deep Learning: https://www.youtube.com/watch?v=tfyxxGXCpAg
-<br>
-DeepWalk: https://www.youtube.com/watch?v=N_XOTh3SDZ8
-<br>
-
 
 <h1> Working with Neural Networks </h1>
-Mixed Precision Training
-- https://www.youtube.com/watch?v=pKZs4hllCvI&t=520s
+Mixed Precision Training: https://www.youtube.com/watch?v=pKZs4hllCvI&t=520s
 <br>
 Adversarial Propagation (Vision Models): https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
 <br>
@@ -181,6 +163,24 @@ Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
 Curriculum Learning in Deep Neural Networks: https://www.youtube.com/watch?v=hV61aU3UL-w
 <br>
 The ReLU Activation Function: https://www.youtube.com/watch?v=Ei6274NnDvU
+<br>
+
+<h1>Semi-Supervised Learning</h1>
+Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
+<br>
+
+<h1> Knowledge Distillation </h1>
+Knowledge Distillation with TAs: https://www.youtube.com/watch?v=ueUAtFLtukM&t=218s
+<br>
+Self-Training with Noisy Student: https://www.youtube.com/watch?v=Y8YaU9mv_us&t=2s
+
+
+<h1>Deep Learning on Graphs</h1>
+Graph Convolutional Networks: https://www.youtube.com/watch?v=pH1Zz6c1Q7A
+<br>
+Embedding Graphs with Deep Learning: https://www.youtube.com/watch?v=tfyxxGXCpAg
+<br>
+DeepWalk: https://www.youtube.com/watch?v=N_XOTh3SDZ8
 <br>
 
 <h1>Weakly Supervised Learning</h1>
