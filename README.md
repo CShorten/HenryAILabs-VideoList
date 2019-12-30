@@ -35,6 +35,26 @@ GANs with Fewer Labels: https://www.youtube.com/watch?v=4VqV31TCsZk
 <br>
 GauGAN: https://www.youtube.com/watch?v=dOjES0yJx7s
 <br>
+Self-Attention GAN: https://www.youtube.com/watch?v=OVeGatovZ7Y&t=1s
+<br>
+BigGANs in Data Augmentation: https://www.youtube.com/watch?v=eu7LUwbRyrk
+<br>
+DCGAN: https://www.youtube.com/watch?v=EYrt7fGyA08
+<br>
+SimGAN: https://www.youtube.com/watch?v=ZFwcJfnvTTM
+<br>
+Transfer Learning in GANs: https://www.youtube.com/watch?v=LzD-czp7lcs
+<br>
+Must-Read Papers on GANs: https://www.youtube.com/watch?v=ehDrG98ZgPQ
+<br>
+Improved Techniques for Training GANs: https://www.youtube.com/watch?v=bThj0t703v4
+<br>
+Progressive Growing of GANs: https://www.youtube.com/watch?v=t640zZzIRBY
+<br>
+StyleGAN: https://www.youtube.com/watch?v=AQBti_wN414
+<br>
+StackGAN: https://www.youtube.com/watch?v=s7OIHukdD0o
+<br>
 
 <h1> Neural Architecture Search </h1>
 Hierarchical Neural Architecture Search: https://www.youtube.com/watch?v=svOpLZ4Zx4A
@@ -48,6 +68,16 @@ Wide ResNet: https://www.youtube.com/watch?v=Qyds_i-z0e8
 AutoML with Hyperband: https://www.youtube.com/watch?v=eqokKei1aEo&t=359s
 <br>
 SqueezeNet: https://www.youtube.com/watch?v=ge_RT5wvHvY
+<br>
+EfficientNet: https://www.youtube.com/watch?v=3svIm5UC94I&t=40s
+<br>
+Neural Architecture Search: https://www.youtube.com/watch?v=tfCA8X4jGjk&t=4s
+<br>
+ResNet: https://www.youtube.com/watch?v=sAzL4XMke80
+<br>
+Inception Network: https://www.youtube.com/watch?v=n5VQaJc1b14
+<br>
+DenseNets: https://www.youtube.com/watch?v=_8zx4T1Wcmg
 <br>
 
 <h1>Reinforcement Learning</h1>
@@ -82,7 +112,6 @@ Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPO
 Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
 <br>
 
-
 <h1> Data Augmentation </h1>
 Adversarial Propagation: https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
 <br>
@@ -92,8 +121,14 @@ Solving Rubik's Cube with a Robot Hand: https://www.youtube.com/watch?v=2AqGocPO
 <br>
 Population Based Augmentation: https://www.youtube.com/watch?v=pEANQ8uau88
 <br>
+AutoAugment: https://www.youtube.com/watch?v=2mNP1iMz7mk
+<br>
 
 <h1> Self-Supervised Learning </h1>
+Self-Training with Noisy Student: https://www.youtube.com/watch?v=Y8YaU9mv_us&t=2s
+<br>
+Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
+<br>
 Self-Supervised GANs: https://www.youtube.com/watch?v=-oJWFcexolY
 <br>
 Multi-Task Self-Supervised Learning: https://www.youtube.com/watch?v=ODG60cYK7aU
@@ -103,6 +138,10 @@ Self-Supervised Learning: https://www.youtube.com/watch?v=lbKg3OSTsgA
 Unsupervised Data Augmentation: https://www.youtube.com/watch?v=-u8Mi57BDIY
 <br>
 Image Data Augmentation for Deep Learning: https://www.youtube.com/watch?v=mljRx81K1gY
+<br>
+BigGANs in Data Augmentation: https://www.youtube.com/watch?v=eu7LUwbRyrk
+<br>
+Unsupervised Feature Learning: https://www.youtube.com/watch?v=YniWmMxlKvY
 <br>
 
 <h1> Knowledge Distillation </h1>
@@ -122,6 +161,15 @@ Slam Dunk Video Classification Tutorial (w/ TF 2.0 Distributed Training!): https
 ResNet Keras Implementation: https://www.youtube.com/watch?v=DWpijIMpiPY
 <br>
 
+<h1>Deep Learning on Graphs</h1>
+Graph Convolutional Networks: https://www.youtube.com/watch?v=pH1Zz6c1Q7A
+<br>
+Embedding Graphs with Deep Learning: https://www.youtube.com/watch?v=tfyxxGXCpAg
+<br>
+DeepWalk: https://www.youtube.com/watch?v=N_XOTh3SDZ8
+<br>
+
+
 <h1> Working with Neural Networks </h1>
 Mixed Precision Training
 - https://www.youtube.com/watch?v=pKZs4hllCvI&t=520s
@@ -131,6 +179,8 @@ Adversarial Propagation (Vision Models): https://www.youtube.com/watch?v=KTCztkN
 Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
 <br>
 Curriculum Learning in Deep Neural Networks: https://www.youtube.com/watch?v=hV61aU3UL-w
+<br>
+The ReLU Activation Function: https://www.youtube.com/watch?v=Ei6274NnDvU
 <br>
 
 <h1>Weakly Supervised Learning</h1>
@@ -167,6 +217,9 @@ Siamese Neural Networks: https://www.youtube.com/watch?v=T9yKyZfxUJg
 
 <h1> Attention </h1>
 Show, Attend and Tell: https://www.youtube.com/watch?v=bBMxSg3c_6M
+<br>
+Self-Attention GAN: https://www.youtube.com/watch?v=OVeGatovZ7Y&t=1s
+<br>
 
 <h1> Efficient Deep Learning </h1>
 RevNet: Backpropagation without Storing Activations: https://www.youtube.com/watch?v=EulWJgvNWfM
@@ -179,11 +232,17 @@ Deep Compression: https://www.youtube.com/watch?v=xDS7ljg0T-E
 <h1> Applications of Deep Learning </h1>
 Skin Cancer Classification with Deep Learning: https://www.youtube.com/watch?v=GkTgSgjJuW8
 <br>
+Video Classification with Deep Learning: https://www.youtube.com/watch?v=LAV56E-mWoo
+<br>
+
 
 <h1> Miscellanious Videos </h1>
 Google Research at ICCV: https://www.youtube.com/watch?v=z-yvY8iAaHM&t=620s
 <br>
 Facebook Research at ICCV: https://www.youtube.com/watch?v=W5EsADGw9CA&t=30s
+<br>
+Word2Vec: https://www.youtube.com/watch?v=cQFOxMkzwf4
+<br>
 
 <h1>Podcasts</h1>
 Yannic Kilcher: https://www.youtube.com/watch?v=084W48_uEz0&t=120s
