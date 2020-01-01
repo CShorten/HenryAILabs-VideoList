@@ -6,6 +6,11 @@ I hope that the categorization of these videos can be additionally useful for th
 
 (Some videos are repeated twice if they fall into multiple categories such as Weight Agnostic Neural Networks labeled as "Surprising Findings about Neural Networks" and "Neural Architecture Search")
 
+<h1> AI 2019 Recap </h1>
+This is my recap of Artificial Intelligence in 2019! This video covers developments in the way we understand Neural Networks such as "The Lottery Ticket Hypothesis" and "Weight Agnostic Neural Networks", as well as evolutions in self-supervised learning, language models, generative models, game-playing reinforcement learning, and many more!
+
+https://youtu.be/6SWpN64Ivb4
+
 <h1>Surprising Findings about Neural Networks</h1>
 Deep Double Descent: https://www.youtube.com/watch?v=R29awq6jvUw&t=1s
 <br>
