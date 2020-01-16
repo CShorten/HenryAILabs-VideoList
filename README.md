@@ -107,6 +107,16 @@ Chapter 7 n-step Bootstrapping: https://www.youtube.com/watch?v=1i5a4yj0Mwg&t=31
 Chapter 8: Planning and Learning: https://www.youtube.com/watch?v=uja8sxJbplg&t=113s
 <br>
 
+<h1> Game-Playing AI </h1>
+AlphaGo: 
+<br>
+AlphaGo Zero:
+<br>
+AlphaZero: 
+<br>
+MuZero: https://youtu.be/szbvm8aNDxw
+<br>
+
 <h1>Coding Tutorials</h1>
 Vertical Jump Test with Computer Vision: https://www.youtube.com/watch?v=oIqWhCNHa30&t=1s
 <br>
