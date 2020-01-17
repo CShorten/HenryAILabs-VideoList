@@ -108,13 +108,15 @@ Chapter 8: Planning and Learning: https://www.youtube.com/watch?v=uja8sxJbplg&t=
 <br>
 
 <h1> Game-Playing AI </h1>
-AlphaGo: 
+AlphaGo: https://www.youtube.com/watch?v=jgAj8CqcBBs&t=99s
 <br>
-AlphaGo Zero:
+AlphaGo Zero: https://www.youtube.com/watch?v=B1MUfP1qqLs&t=94s
 <br>
-AlphaZero: 
+AlphaZero: https://www.youtube.com/watch?v=4FdiTTZPkos&t=93s
 <br>
 MuZero: https://youtu.be/szbvm8aNDxw
+<br>
+The Evolution of AlphaGo to MuZero: https://www.youtube.com/watch?v=A0HX8BgckFI
 <br>
 
 <h1>Coding Tutorials</h1>
