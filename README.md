@@ -131,6 +131,14 @@ Slam Dunk Video Classification Tutorial (w/ TF 2.0 Distributed Training!): https
 ResNet Keras Implementation: https://www.youtube.com/watch?v=DWpijIMpiPY
 <br>
 
+<h1> Transformers </h1>
+Towards Human-like Open-Domain Chatbots: https://www.youtube.com/watch?v=STrrlLG15OY
+<br>
+The Evolved Transformer: https://www.youtube.com/watch?v=khA-fiC1Wa0&t=22s
+<br>
+Reformer: The Efficient Transformer: https://www.youtube.com/watch?v=Kf3x3lqf9cQ&t=382s
+<br>
+
 
 <h1> Data Augmentation </h1>
 Adversarial Propagation: https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
@@ -183,6 +191,8 @@ The ReLU Activation Function: https://www.youtube.com/watch?v=Ei6274NnDvU
 <br>
 
 <h1>Semi-Supervised Learning</h1>
+FixMatch: https://www.youtube.com/watch?v=nkewn6XGyt8&t=1s
+<br>
 Semi-Weak Supervised Learning: https://www.youtube.com/watch?v=5cySIwg49RI&t=3s
 <br>
 
