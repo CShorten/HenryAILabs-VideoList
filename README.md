@@ -1,5 +1,5 @@
 # HenryAILabs-VideoList
-A curated list of all 103 Henry AI Labs videos on Deep Learning and AI!
+A curated list of all 115 Henry AI Labs videos on Deep Learning and AI!
 <br>
 <br>
 I hope that the categorization of these videos can be additionally useful for those looking to get a general sense of research topics in Deep Learning and AI!
