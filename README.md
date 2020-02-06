@@ -134,11 +134,12 @@ ResNet Keras Implementation: https://www.youtube.com/watch?v=DWpijIMpiPY
 <h1> Transformers </h1>
 Towards Human-like Open-Domain Chatbots: https://www.youtube.com/watch?v=STrrlLG15OY
 <br>
+BERT Explained: https://www.youtube.com/watch?v=OR0wfP2FD3c
+<br>
 The Evolved Transformer: https://www.youtube.com/watch?v=khA-fiC1Wa0&t=22s
 <br>
 Reformer: The Efficient Transformer: https://www.youtube.com/watch?v=Kf3x3lqf9cQ&t=382s
 <br>
-
 
 <h1> Data Augmentation </h1>
 Adversarial Propagation: https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
@@ -185,9 +186,15 @@ Adversarial Propagation (Vision Models): https://www.youtube.com/watch?v=KTCztkN
 <br>
 Inference in Deep Learning: https://www.youtube.com/watch?v=kPQQ61Ks46A&t=2s
 <br>
-Curriculum Learning in Deep Neural Networks: https://www.youtube.com/watch?v=hV61aU3UL-w
-<br>
 The ReLU Activation Function: https://www.youtube.com/watch?v=Ei6274NnDvU
+<br>
+
+<h1> Curriculum Learning </h1>
+Learning to Execute: https://www.youtube.com/watch?v=5rrldwJdDRE
+<br>
+Teacher-Student Curriculum Learning: https://www.youtube.com/watch?v=GFCujBpTf3k
+<br>
+Curriculum Learning in Deep Neural Networks: https://www.youtube.com/watch?v=hV61aU3UL-w
 <br>
 
 <h1>Semi-Supervised Learning</h1>
