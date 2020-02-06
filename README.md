@@ -15,10 +15,9 @@ https://youtu.be/6SWpN64Ivb4
 These videos are described as <b>"Surprising Findings about Neural Networks"</b> because the reality of Deep Learning is that Neural Networks are far from completely understood. One example of this is "Deep Double Descent" which describes cases where training with large models or datasets actually increases error. This is contrary to the conventional wisdom of training Neural Nets that larger models are <b>Always</b> better. Other papers on this list such as "What's Hidden in a Randomly Weighted Neural Network?" and "The Lottery Ticket Hypothesis" present similar discoveries!
 <br>
 <hr>
-<br>
 <h2> Deep Double Descent</h2>
-<li>https://www.youtube.com/watch?v=R29awq6jvUw&t=1s</li>
 <li> This video explores a new study on double descent evident in Deep Learning models such as CNNs, ResNets and Transformers. The double descent phenomenon is an interesting intermediate zone where test error increases and then decreases with respect to increasing the model capacity, adding more training data, and training for longer. This is an interesting phenomenon to be aware of when training Deep Learning models! </li>
+<li>https://www.youtube.com/watch?v=R29awq6jvUw&t=1s</li>
 
 <br>
 What's Hidden in a Randomly Weighted Neural Network: https://www.youtube.com/watch?v=C6Tj8anJO-Q
