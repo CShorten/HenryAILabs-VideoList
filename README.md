@@ -1,4 +1,4 @@
-# HenryAILabs-VideoList
+# Henry AI Labs - Organized Video List
 A curated list of all 115 Henry AI Labs videos on Deep Learning and AI!
 <br>
 <br>
