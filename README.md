@@ -16,7 +16,8 @@ These videos are described as <b>"Surprising Findings about Neural Networks"</b>
 <br>
 <hr>
 <br>
-Deep Double Descent: https://www.youtube.com/watch?v=R29awq6jvUw&t=1s
+<h5> Deep Double Descent</h5>
+<li>https://www.youtube.com/watch?v=R29awq6jvUw&t=1s</li>
 <li> This video explores a new study on double descent evident in Deep Learning models such as CNNs, ResNets and Transformers. The double descent phenomenon is an interesting intermediate zone where test error increases and then decreases with respect to increasing the model capacity, adding more training data, and training for longer. This is an interesting phenomenon to be aware of when training Deep Learning models! </li>
 
 <br>
