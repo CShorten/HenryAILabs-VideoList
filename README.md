@@ -11,8 +11,8 @@ This is my recap of Artificial Intelligence in 2019! This video covers developme
 
 https://youtu.be/6SWpN64Ivb4
 
-<h1>Surprising Findings about Neural Networks</h1>
-These videos are described as <b>"Surprising Findings about Neural Networks"</b> because the reality of Deep Learning is that Neural Networks are far from completely understood. One example of this is "Deep Double Descent" which describes cases where training with large models or datasets actually increases error. This is contrary to the conventional wisdom of training Neural Nets that larger models are <b>Always</b> better. Other papers on this list such as "What's Hidden in a Randomly Weighted Neural Network?" and "The Lottery Ticket Hypothesis" present similar discoveries!
+<h1>Understanding Neural Networks</h1>
+These videos are described as <b>"Understanding Neural Networks"</b> because the reality of Deep Learning is that Neural Networks are far from completely understood. One example of this is "Deep Double Descent" which describes cases where training with large models or datasets actually increases error. This is contrary to the conventional wisdom of training Neural Nets that larger models are <b>Always</b> better. Other papers on this list such as "What's Hidden in a Randomly Weighted Neural Network?" and "The Lottery Ticket Hypothesis" present similar discoveries!
 <br>
 <hr>
 <h3> Deep Double Descent</h3>
