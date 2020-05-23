@@ -3,7 +3,7 @@ Thanks for checking out the Henry AI Labs Video List on Github!
 <br>
 I made this list to group videos together by similar topics such as GANs or Reinforcement Learning. 
 <br>
-I think that this is a better way to organize the broad topics in Deep Learning vs. YouTube playlists.
+I think that this is a better way to organize topics in Deep Learning vs. YouTube playlists.
 <br>
 <br>
 I hope that the categorization of these videos can be additionally useful for those looking to get a general sense of research topics in Deep Learning and AI!
