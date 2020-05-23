@@ -37,6 +37,8 @@ The Lottery Ticket Hypothesis: https://www.youtube.com/watch?v=LXm_6eq0Cs4
 One of the most exciting areas of Deep Learning is generative modeling with high-dimensional data like Images, Audio, Text, and Videos. Rather than learning how to classify data points in a high-dimensioanl distribution, generative models try to exactly model the distribution. This is described as modeling p(x) rather than p(y|x) in supervised learning. The videos below describe successful examples of Generative modeling including GANs, VAEs, and Auto-Regressive models (mostly Text).
 <br>
 <hr>
+GameGAN: https://www.youtube.com/watch?v=H8F6J7mYyz0
+<br>
 Generative Teaching Networks: https://www.youtube.com/watch?v=lmnJfLjDVrI&t=1s
 <br>
 StyleGANv2: https://www.youtube.com/watch?v=u8qPvzk0AfY&t=11s
