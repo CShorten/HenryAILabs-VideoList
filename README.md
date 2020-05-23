@@ -1,5 +1,7 @@
 # Henry AI Labs - Organized Video List
-A list categorizing all 115 Henry AI Labs videos on Deep Learning and AI!
+Thanks for checking out the Henry AI Labs Video List on Github!
+<br>
+I made this list to group videos together by similar topics such as GANs or Reinforcement Learning. I think that this is a better way to organize this than YouTube playlists.
 <br>
 <br>
 I hope that the categorization of these videos can be additionally useful for those looking to get a general sense of research topics in Deep Learning and AI!
