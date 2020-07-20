@@ -155,6 +155,8 @@ The Evolved Transformer: https://www.youtube.com/watch?v=khA-fiC1Wa0&t=22s
 <br>
 Reformer: The Efficient Transformer: https://www.youtube.com/watch?v=Kf3x3lqf9cQ&t=382s
 <br>
+CheckList: https://www.youtube.com/watch?v=L3gaWctPg6E&t=7s
+<br>
 
 <h1> Data Augmentation </h1>
 Adversarial Propagation: https://www.youtube.com/watch?v=KTCztkNJm50&t=77s
