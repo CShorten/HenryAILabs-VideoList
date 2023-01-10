@@ -302,4 +302,10 @@ Edward Peake: https://www.youtube.com/watch?v=Z-SePjfKAYM
 <br>
 Edward Dixon: https://www.youtube.com/watch?v=pwaUfkFZTDE
  
+```python
+from tensorflow import keras
+from tensorflow.keras import layers
+
+vision_model = keras.applications.<MASK>
+```
 
